@@ -1,0 +1,12 @@
+{
+  "name": "clear",
+  "version": "0.1.0",
+  "description": "Bot Discord RP",
+  "main": "index.js",
+  "repository": "https://github.com/Justin57/bot.git",
+  "author": "Justin57 <justin.groshens@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
